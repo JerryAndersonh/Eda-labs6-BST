@@ -1,0 +1,3 @@
+Implementar una árbol binario de búsqueda ABB o BST donde ingrese por teclado una palabra
+y como resultado debe mostrar el arbol de acuerdo al valor decimal correspondiente de su código ASCII.
+Utilizando los métodos del ejercicio anterior.

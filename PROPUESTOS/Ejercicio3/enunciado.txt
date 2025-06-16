@@ -1,0 +1,3 @@
+Implementar un método para graficar el árbol binario de búsqueda ABB o BST resultante,
+mostrando todos sus nodos, sus aristas izquierda y derecha utilizando clases y métodos genéricos, utilizar
+la librería Graph Stream.
